@@ -1,0 +1,6 @@
+{
+  "name": "GroomPulse",
+  "description": "All-in-one vertical SaaS for pet groomers: zero-friction booking, calendar scheduling, automated reminders, invoices, and missed-call recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
